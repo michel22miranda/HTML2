@@ -7,7 +7,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 700px;
-    margin: 0;
+    margin: 50px;
 }
 
 button {
@@ -19,4 +19,14 @@ button {
     display:none;
 
 }
-.passo.ativo
+.passo.ativo{
+    display:block;
+
+}
+main{
+    text-align: center;
+    max-width: 90%;
+}
+img{
+    max-width: 80%;
+}
